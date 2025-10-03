@@ -78,7 +78,7 @@ Contribuições são bem-vindas! Fique à vontade para abrir issues, enviar pull
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/vandersant7) — entre em contato para feedbacks, dúvidas ou colaborações!
+Desenvolvido por [Evandro Santos](https://github.com/vandersant7) — entre em contato para feedbacks, dúvidas ou colaborações!
 
 ```
 
