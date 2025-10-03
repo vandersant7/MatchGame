@@ -54,22 +54,6 @@ MatchGame é um clássico jogo da memória onde as cartas são viradas para baix
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-MatchGame/
-│
-├── Assets/               # Imagens e recursos visuais
-├── Models/               # Lógica do jogo e dados
-├── Views/                # Arquivos XAML da interface
-├── ViewModels/           # (Opcional) MVVM Bindings
-├── MainWindow.xaml       # Janela principal do jogo
-├── MainWindow.xaml.cs    # Lógica da janela principal
-└── MatchGame.sln         # Arquivo de solução do Visual Studio
-```
-
----
-
 ## ✅ Melhorias Futuras
 
 * Níveis de dificuldade
